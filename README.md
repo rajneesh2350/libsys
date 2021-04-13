@@ -1,4 +1,5 @@
 # libsys
+Library Management System = LMS
 Create a Database with the Name of libsystem. (without password,root,localhost).
 In the libsystem database write tables from database folder with libsystem.sql file.
 All tables name are started with lms_
